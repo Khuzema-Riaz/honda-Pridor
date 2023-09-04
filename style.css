@@ -1,0 +1,28 @@
+.nav-item{
+font-weight: 900;
+font-style: italic;
+}
+.container{
+    background-color: black;
+    color: white;
+}
+.py-5{
+    color: white;
+}
+.busy{
+    color: white;
+}
+.card-body{
+    background-color: black;
+    color: white;
+   
+    
+}
+.rt{
+    color: rgb(130, 236, 187);
+    text-align: center;
+}
+.btn-group{
+    color: rgb(7, 7, 7);
+    background-color: white;
+}
